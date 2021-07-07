@@ -21,3 +21,7 @@ URL:  https://www.youtube.com/playlist?list=PL9Hl4pk2FsvWM9GWaguRhlCQ-pa-ERd4U
 ---
 
 [[todo]]
+
+- [[inbox]] - a place to write down quick notes to be categorised later
+- [[foam-tips]] - tips to get the most out of your Foam workspace
+- [[todo]] - a place to keep track of things to do
