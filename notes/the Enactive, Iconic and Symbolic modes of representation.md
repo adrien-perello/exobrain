@@ -1,9 +1,0 @@
-- [[Jerome Bruner]] defines a **mode of representation** as a way in which *information* or knowledge is **stored** and **encoded** in memory
-- He defines 3 modes of representation: 
-	- **Enactive** representation = action-based (from birth)
-		- It involves encoding physical action based information and storing it in our memory
-	- **Iconic** representation = mental image-based (from 1-6 years old)
-		- Information is stored as sensory images (icons), usually visual ones (but can also be smell, sounds, touch)
-	- **Symbolic** representation = language-based (from 7 years old))
-		- information is stored in the form of a code or symbol, such as words, mathematical symbols, music notes...
-		- Symbols are flexible in that they can be manipulated, ordered, classified --> no constraints as for actions or images

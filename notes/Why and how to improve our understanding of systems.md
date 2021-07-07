@@ -1,3 +1,0 @@
-- [[Engineering challenges often lie on the boundary of theory and the unknown]]
-- Therefore, we need to develop our **intuition** of systems
-- The concept of [[tool for thought]] responds to it, and in particular [[interactive articles]] (also known as explorable explanations)
