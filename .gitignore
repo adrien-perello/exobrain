@@ -1,0 +1,5 @@
+*.vscode
+*_private
+*.obsidian
+*_utils
+*references
